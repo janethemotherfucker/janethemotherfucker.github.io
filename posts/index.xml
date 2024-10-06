@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>jane.arkanian@proton.me (Jane Arkanian)</managingEditor>
     <webMaster>jane.arkanian@proton.me (Jane Arkanian)</webMaster>
-    <lastBuildDate>Sun, 01 Sep 2024 09:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:45:45 +0000</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smoking rules</title>
+      <link>https://example.org/posts/smoking-rules/</link>
+      <pubDate>Thu, 03 Oct 2024 10:45:45 +0000</pubDate><author>jane.arkanian@proton.me (Jane Arkanian)</author>
+      <guid>https://example.org/posts/smoking-rules/</guid>
+      <description>There is a reason people smoke, because its fucking cool as shit.&#xA;Look at this badass.&#xA;Normally all you hear is negative shit about smoking. But check this badass motherfucker.&#xA;Now for the PSA, smoking cigarettes is very bad for you.&#xA;You should be vaping! Then you don&amp;rsquo;t have to worry about thousands of cancer causing agents. Just a few instead.&#xA;Cool as shit, motherfucker. This is my favourite part of vaping, the massive clouds.</description>
+    </item>
     <item>
       <title>Techrights is a nazi adjacent cesspool</title>
       <link>https://example.org/posts/techrights/</link>
@@ -37,6 +44,13 @@
       <pubDate>Fri, 29 Dec 2023 22:01:00 +0000</pubDate><author>jane.arkanian@proton.me (Jane Arkanian)</author>
       <guid>https://example.org/posts/linux-boomers/</guid>
       <description>I&amp;rsquo;m going to start this article off by saying that you don&amp;rsquo;t have to be born in the boomer generation to be a boomer. You can be a boomer by acting like one. Hate new stuff? boomer. Run a desktop from the naughties? Boomer.&#xA;That&amp;rsquo;s right fuckface.&#xA;Linux Boomers are people who act like boomers because they hate new things. They thought the naughties were the pinnacle of technology and say OSS was the best.</description>
+    </item>
+    <item>
+      <title>The Technological Dictatorship Party</title>
+      <link>https://example.org/posts/political-party/</link>
+      <pubDate>Fri, 29 Dec 2023 22:01:00 +0000</pubDate><author>jane.arkanian@proton.me (Jane Arkanian)</author>
+      <guid>https://example.org/posts/political-party/</guid>
+      <description>I&amp;rsquo;m not currently happy with any of the political parties out there today. They all fucking suck.&#xA;Left, Right, Center, Top left, Top right, etc, etc. None of it matters at all.&#xA;It&amp;rsquo;s the same bird.&#xA;Nepotism, money and slavery.</description>
     </item>
     <item>
       <title>Dealing with Transphobia</title>
